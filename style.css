@@ -30,4 +30,6 @@ body {
     overflow: auto;
 }
 
-
+.tour-padding {
+    padding-bottom: 10px;
+}
