@@ -33,3 +33,7 @@ body {
 .tour-padding {
     padding-bottom: 10px;
 }
+
+.highlight {
+    background-color: rgba(0,0,0,0.2);
+}
