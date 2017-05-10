@@ -26,6 +26,7 @@ body {
 
 #cover img {
     max-height: 70%;
+    width: auto;
     resize: both;
     overflow: auto;
 }
