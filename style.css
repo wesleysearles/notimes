@@ -38,7 +38,6 @@ body {
 .news-padding {
     padding-top: 5px;
     padding-bottom: 10px;
-    border-bottom: 2px solid #fff;
 }
 
 .highlight {
@@ -47,4 +46,10 @@ body {
 
 .no-margin-top {
     margin-top: 0;
+}
+
+.divider {
+    height: 1px;
+    width: auto;
+    margin-bottom: 5px;
 }
