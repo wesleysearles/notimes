@@ -35,6 +35,7 @@ body {
 }
 
 .highlight {
-    height: auto;
+    height: 50px;
+    overflow: auto;
     background-color: #fff;
 }
