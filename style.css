@@ -49,6 +49,10 @@ body {
     padding-bottom: 20px;
 }
 
+.padding-bottom {
+    padding-bottom: 50px;
+}
+
 .highlight {
     background-color: rgba(0, 0, 0, 0.5);
 }
