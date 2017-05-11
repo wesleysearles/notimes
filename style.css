@@ -50,6 +50,7 @@ body {
 
 .divider {
     height: 1px;
+    background-color: #fff;
     width: auto;
     margin-bottom: 5px;
 }
