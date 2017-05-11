@@ -38,3 +38,7 @@ body {
 .highlight {
     background-color: rgba(0, 0, 0, 0.5);
 }
+
+.no-padding-top {
+    padding-top: 0;
+}
