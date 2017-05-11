@@ -38,6 +38,7 @@ body {
 .news-padding {
     padding-top: 5px;
     padding-bottom: 10px;
+    border-bottom: 2px solid #fff;
 }
 
 .highlight {
